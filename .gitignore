@@ -1,0 +1,12 @@
+.idea
+.bsp
+*.iml
+target
+logs
+test-output
+.settings
+*.classpath
+*.project
+# mac
+.DS_Store
+
